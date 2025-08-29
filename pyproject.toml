@@ -60,10 +60,10 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/mongodb-logger"
-Documentation = "https://github.com/your-username/mongodb-logger#readme"
-Repository = "https://github.com/your-username/mongodb-logger.git"
-"Bug Tracker" = "https://github.com/your-username/mongodb-logger/issues"
+Homepage = "https://github.com/miroblog/mongodb-logger"
+Documentation = "https://github.com/miroblog/mongodb-logger#readme"
+Repository = "https://github.com/miroblog/mongodb-logger.git"
+"Bug Tracker" = "https://github.com/miroblog/mongodb-logger/issues"
 
 [tool.hatch.version]
 path = "src/mongodb_logger/__init__.py"

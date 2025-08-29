@@ -348,7 +348,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-username/mongodb-logger.git
+git clone https://github.com/miroblog/mongodb-logger.git
 cd mongodb-logger
 pip install -e ".[dev]"
 pre-commit install
@@ -370,8 +370,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/mongodb-logger/issues)
-- **Documentation**: [GitHub README](https://github.com/your-username/mongodb-logger#readme)
+- **Issues**: [GitHub Issues](https://github.com/miroblog/mongodb-logger/issues)
+- **Documentation**: [GitHub README](https://github.com/miroblog/mongodb-logger#readme)
 - **PyPI**: [mongodb-logger](https://pypi.org/project/mongodb-logger/)
 
 ## 🎯 Roadmap
